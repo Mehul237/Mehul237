@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mehul Thuletiya</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">Hello!  </h3>
+  <p>
+ Thanks in advance for taking out time to read about me.
+  <br>
+  <br>
+ My name is Mehul Thuletiya. I am a Information Technology student at Parul University and currently Semester-3. I have always had a keen interest in growing tech and constantly eager to learn and explore new technologies. I am enthusiastic learner. I am a budding engineer, working hard to pursue my aim. I have a great zeal to learn and to put all my skills and knowledge to get the best of my work done. Also, being a keen learner and a youngster, I can work to the best of my potential in a faster and in a more relevant manner. I Live in Gujarat and code almost every day.
+  <br>
+  <br>
+  I am currently learning Frontend Development and also exploring the fields of SDE, Data Engineer, Data analyst & Cyber security. 
+  <br>
+  <br>
+  Being a part of many clubs and communities at my college and outside, as well as leading a few, I learned the significance of community building, teamwork and gained effective communication, leadership skills and problem-solving abilities. 
+  <br>
+  <br>
+  Apart from being a Tech Enthusiastic & Besides coding, I do photoshop and did a few freelancing works.
+  </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehul237&label=Profile%20views&color=0e75b6&style=flat" alt="mehul237" /> </p>
