@@ -13,7 +13,7 @@ Apart from being a Tech Enthusiastic & Besides coding, I do photoshop and did a 
 ### Connect with me via
 
 - LinkedIn  | [Mehul Thuletiya](https://www.linkedin.com/in/mehul-thuletiya/)
-- E-mail  | [G-mail](mehulthuletiya26@gmail.com)
+- E-mail  | [here!](mehulthuletiya26@gmail.com)
 
 ### Coding profile
 
