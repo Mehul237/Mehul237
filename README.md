@@ -1,7 +1,7 @@
 
 ## Hello,
 
-My name is Mehul Thuletiya, and I'm currently a student pursuing Information Technology at Parul University, currently in my 4th-semester. From a young age, I've had an insatiable curiosity about all things tech, and I'm always eager to learn and explore new technologies. I consider myself to be an enthusiastic learner, constantly striving to improve myself and pursue my goals. As a budding engineer, I'm fully committed to utilizing all of my skills and knowledge to achieve the best possible outcomes in my work.
+My name is Mehul Thuletiya, and I'm currently a student pursuing Information Technology at Parul University, currently in my 6th-semester. From a young age, I've had an insatiable curiosity about all things tech, and I'm always eager to learn and explore new technologies. I consider myself to be an enthusiastic learner, constantly striving to improve myself and pursue my goals. As a budding engineer, I'm fully committed to utilizing all of my skills and knowledge to achieve the best possible outcomes in my work.
 
 I hail from Gujarat, and I code almost every day. My current area of focus is Frontend Development, and I'm also exploring other exciting fields such as SDE, Data Engineer, Data Analyst, and Cybersecurity. I firmly believe that my passion for learning and my youthfulness are key strengths that enable me to work faster, more effectively, and more relevantly.
 
@@ -75,4 +75,4 @@ Beyond coding, I also have experience in photo editing and have completed some f
 - Codeforces  | [Mehul_Thuletiya](https://codeforces.com/profile/Mehul_Thuletiya)
 
 ### Thank You for Visiting
-Thank you for taking the time to learn a little bit about me. If you like what you see, please consider giving my GitHub profile a star! ⭐️
+ - Thank you for taking the time to learn a little bit about me. If you like what you see, please consider giving my GitHub profile a star! ⭐️
