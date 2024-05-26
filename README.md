@@ -5,9 +5,6 @@ My name is Mehul Thuletiya, and I'm currently a student pursuing Information Tec
 
 I hail from Gujarat, and I code almost every day. My current area of focus is Frontend Development, and I'm also exploring other exciting fields such as SDE, Data Engineer, Data Analyst, and Cybersecurity. I firmly believe that my passion for learning and my youthfulness are key strengths that enable me to work faster, more effectively, and more relevantly.
 
-In addition to my academic pursuits, I'm also an active participant in many clubs and communities at my college and beyond. These experiences have taught me the importance of community building, teamwork, effective communication, leadership, and problem-solving abilities.
-
-Beyond coding, I also have experience in photo editing and have completed some freelance projects. Overall, I'm a well-rounded individual with a strong passion for tech and a commitment to excellence in everything I do. I'm confident that I'll be able to make a valuable contribution to any team or project I'm a part of. Thank you for taking the time to read about me!
 
 ## Tech Stack:
 
@@ -28,14 +25,15 @@ Beyond coding, I also have experience in photo editing and have completed some f
         <br> JavaScript </br>
  </td>
 
- <td align="center" width="96" style="border:2px solid blue">
+<!-- <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
         <br> Bootstrap </br>
   </td>
   <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="CPP" />
         <br> Tailwind </br>
- </td>
+ </td> -->
+ 
 </tr>
 
 <tr>
@@ -46,6 +44,8 @@ Beyond coding, I also have experience in photo editing and have completed some f
 <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />
         <br>Node.js</br>
+
+<!--
 </td>
  <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js" />
@@ -55,6 +55,7 @@ Beyond coding, I also have experience in photo editing and have completed some f
         <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express" />
         <br>Express</br>
 </td>
+-->
 <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
       <br>MongoDB</br>
@@ -68,9 +69,21 @@ Beyond coding, I also have experience in photo editing and have completed some f
 - LinkedIn  | [Mehul Thuletiya](https://www.linkedin.com/in/mehul-thuletiya/)
 - E-mail  | [here!](mehulthuletiya26@gmail.com)
 
-### Coding profile
+## 📈 Coding Profiles
 
-- Leetcode  | [mehul_237](https://leetcode.com/mehul_237/)
+<span>
+<!--
+<a href="https://codeforces.com/profile/itzzRaghav">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=itzzRaghav&theme=github_dark&force_username=true&border_color=404040" alt="Raghav's Codeforces Stats"/>
+  -->
+  
+</a>
+<a href="https://leetcode.com/u/mehul_237/">
+<img height="316" src="https://leetcard.jacoblin.cool/mehul_237?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/mehul237/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Mehul's Leetcode Stats"/>
+</a>
+
+</span>
+
 - Codechef  | [mehul_237](https://www.codechef.com/users/mehul_237)
 - Codeforces  | [Mehul_Thuletiya](https://codeforces.com/profile/Mehul_Thuletiya)
 
