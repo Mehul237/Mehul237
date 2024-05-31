@@ -63,19 +63,24 @@ I hail from Gujarat, and I code almost every day. My current area of focus is Fr
 </tr>
 </table>
 
+## 📊 Github Stats
 
-### Connect with me via
+<span>
+<a href="https://github.com/Mehul237">
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehul237&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="Mehul237's Github Top Languages" />
+<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=Mehul237&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Mehul237's Github Stats" />
+</a>
+</span>
 
-- LinkedIn  | [Mehul Thuletiya](https://www.linkedin.com/in/mehul-thuletiya/)
-- E-mail  | [here!](mehulthuletiya26@gmail.com)
+
+
 
 ## 📈 Coding Profiles
 
 <span>
-<!--
-<a href="https://codeforces.com/profile/itzzRaghav">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=itzzRaghav&theme=github_dark&force_username=true&border_color=404040" alt="Raghav's Codeforces Stats"/>
-  -->
+
+<a href="https://codeforces.com/profile/Mehul_Thuletiya">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Mehul_Thuletiya&theme=github_dark&force_username=true&border_color=404040" alt="Mehul's Codeforces Stats"/>
   
 </a>
 <a href="https://leetcode.com/u/mehul_237/">
@@ -84,8 +89,13 @@ I hail from Gujarat, and I code almost every day. My current area of focus is Fr
 
 </span>
 
+
 - Codechef  | [mehul_237](https://www.codechef.com/users/mehul_237)
-- Codeforces  | [Mehul_Thuletiya](https://codeforces.com/profile/Mehul_Thuletiya)
+
+### Connect with me via
+
+- LinkedIn  | [Mehul Thuletiya](https://www.linkedin.com/in/mehul-thuletiya/)
+- E-mail  | [here!](mehulthuletiya26@gmail.com)
 
 ### Thank You for Visiting
  - Thank you for taking the time to learn a little bit about me. If you like what you see, please consider giving my GitHub profile a star! ⭐️
