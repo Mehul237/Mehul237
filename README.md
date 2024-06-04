@@ -105,7 +105,8 @@ I hail from Gujarat, and I code almost every day. My current area of focus is Fr
 ### Connect with me via
 
 - LinkedIn  | [Mehul Thuletiya](https://www.linkedin.com/in/mehul-thuletiya/)
-- E-mail  | [here!](mehulthuletiya26@gmail.com)
+- E-mail  | <a href="mailto:mehulthuletiya26@gmail.com">here!</a>
+
 
 ### Thank You for Visiting
  - Thank you for taking the time to learn a little bit about me. If you like what you see, please consider giving my GitHub profile a star! ⭐️
