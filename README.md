@@ -25,6 +25,11 @@ I hail from Gujarat, and I code almost every day. My current area of focus is Fr
         <br> JavaScript </br>
  </td>
 
+  <td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="JavaScript" />
+        <br> Git </br>
+ </td>
+
 <!-- <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
         <br> Bootstrap </br>
@@ -60,6 +65,11 @@ I hail from Gujarat, and I code almost every day. My current area of focus is Fr
         <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
       <br>MongoDB</br>
 </td>
+
+ <td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="JavaScript" />
+        <br> Github </br>
+ </td>
 </tr>
 </table>
 
