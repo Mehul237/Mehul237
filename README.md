@@ -74,7 +74,6 @@ I hail from Gujarat, and I code almost every day. My current area of focus is Fr
 </table>
 
 ## 📊 Github Stats
-
 <span>
 <a href="https://github.com/Mehul237">
 <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehul237&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="Mehul237's Github Top Languages" />
@@ -88,7 +87,12 @@ I hail from Gujarat, and I code almost every day. My current area of focus is Fr
 
 -->
 
+
+<!--
 [![Mehul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mehul237&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
+
+[![Mehul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mehul237&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📈 Coding Profiles
 
